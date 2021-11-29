@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/dataSources.xml" t="1629071387" />
+    <f p="./.idea/phpunit.xml" t="1629067670" />
+    <f p="./.idea/modules.xml" t="1629067670" />
+    <f p="./.idea/dataSources.local.xml" t="1629072354" />
+    <f p="./.idea/test.iml" t="1629067670" />
+    <f p="./.idea/php.xml" t="1629067670" />
+    <f p="./.idea/symfony2.xml" t="1629067670" />
+    <f p="./.idea/workspace.xml" t="1629074824" />
+  </project-files>
+</conversion>

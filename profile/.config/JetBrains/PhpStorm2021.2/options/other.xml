@@ -1,0 +1,188 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1wMVlyw2Yp5eQfzeUbhTpbwMAFu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wgeCVWPLS7pzVhPXEhdYj6e87O">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1whAOrTIn7ov4RbCsHXSeiqyAMp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wjXcubwQ4ZEeRQKwflRtHWJdpQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wjmgJ3mQUEr21VrLFjI7MLfaEK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wkA1qSKmyGpjo84AvEvYLYkpzb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wkSSmx6V9dE3DndUbFE4aWe1lB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wmW3pUt5jbLfuBeIsshqI6aIDZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wmZ4uRytXCHCuMwqd4sQqVzKUv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wmtBw7ciInDMCGyaBHFHTvBpz1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wvKv6Z94h0TLC5O8pQ7C9xWUhP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1wygrY2juGx60VrqEuTGqKRZgyU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x0JdqpJ3sHww9iQZY3Nf1RhDld">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x5eAoUsbnWxQcV7Z3TN53DZ24W">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x5jiQUxiRdhQalsBTgmTeOcTLH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x6Oo1vZYoln5DCCQmbsiFGc1B1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x6vzX6Dy2GYqwMULlI5n5mvWQB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8Qm07XYQEuSeQHecgXa2WLcIK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8V8qZ6z0hVmJGA0oWbsUwgBrI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8Xj1XYJV9fdLb7x567SKhoDqI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8qbfWrRwBg2bUOSuEZpePWl5K">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8rjdfcpw2OnFUMAg1eK7JvkBa">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x8wEVXHDIbiHBfUKjx1RyLYAZF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x9sN7DFcVP4vuDIdwa56mLejSc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xB4vic0RVQNeV7KxZO8dEFyPZt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xB6Wn4wPZwHEzdRswXylkK0nRi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xB9FO6mC4BEHQcczyqxSD2H2NF">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="0-105-0-255,,,157-0-0-255,,,2-29-124-255,,,0-0-0-255,,,76-86-106-255,,,64-131-201-255,,,67-76-94-255,,,97-110-136-255,,,216-222-233-255,,,14-14-14-255,,,46-52-64-255,,,59-66-82-255" />
+    <property name="FindSplitterProportion" value="0.3297491" />
+    <property name="KEYMAP" value="open&#10;database&#10;new...&#10;jump to&#10;terminal" />
+    <property name="MarketplacePluginsSearchHistory" value="mini&#10;javascript min&#10;javascript&#10;javascript comp&#10;javascript compi" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="SettingsSearchHistory" value="scss&#10;brea" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-d2b745af87dbef3c002aedc0519904742bd893f2d43a2a838e91f50e9feb75a1" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="-0.638961" />
+    <property name="evlsprt3.212" value="15" />
+    <property name="file.chooser.recent.files" value="/srv/http/fixbytes/resources/dart-sass/sass&#10;/srv/http/fixbytes&#10;/srv/http/fixbytes/dart-sass/sass&#10;/srv/http/test&#10;/home/jonathan/test" />
+    <property name="file.gist.reindex.count" value="557" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-212.4746.100" />
+    <property name="ide.updates.whats.new.shown.for" value="212" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="javascript.return.tag" value="return" />
+    <property name="last_opened_file_path" value="/srv/http/fixbytes" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
+    <property name="registry.to.advanced.settings.migration.build" value="PS-212.4746.100" />
+    <property name="selected.color.option.type" value="METHOD_SEPARATORS_COLOR" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.3.5" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="test-history" project-path="/srv/http/test" last-access-time="1629068626816" />
+      <command-history-file filename="fixbytes-history2" project-path="/srv/http/fixbytes" last-access-time="1629747962764" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="NO_TOOLBAR_NO_NAVBAR" />
+  </component>
+</application>

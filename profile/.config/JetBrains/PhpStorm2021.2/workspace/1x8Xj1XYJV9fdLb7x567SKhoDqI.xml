@@ -1,0 +1,270 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>klsa</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/config.php" />
+      <option value="$PROJECT_DIR$/component/.htaccess" />
+      <option value="$PROJECT_DIR$/component/login.php" />
+      <option value="$PROJECT_DIR$/404.php" />
+      <option value="$PROJECT_DIR$/index.php" />
+      <option value="$PROJECT_DIR$/assets/scss/_reset.scss" />
+      <option value="$PROJECT_DIR$/assets/scss/app.scss" />
+      <option value="$PROJECT_DIR$/scss/_reset.scss" />
+      <option value="$PROJECT_DIR$/component/footer.php" />
+      <option value="$PROJECT_DIR$/component/header.php" />
+      <option value="$PROJECT_DIR$/scss/_header.scss" />
+      <option value="$PROJECT_DIR$/scss/app.scss" />
+      <option value="$PROJECT_DIR$/layout.php" />
+      <option value="$PROJECT_DIR$/login.php" />
+      <option value="$PROJECT_DIR$/scss/_default.scss" />
+      <option value="$PROJECT_DIR$/scss/_profile.scss" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+              <item name="dart-sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fixbytes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fixbytes" type="462c0819:PsiDirectoryNode" />
+              <item name="svg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8768000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33771008" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="392" y="149" width="703" height="440" key="EditFileWatcherDialog" timestamp="1629741290133">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="392" y="149" width="703" height="440" key="EditFileWatcherDialog/0.0.1366.768@0.0.1366.768" timestamp="1629741290133" />
+    <state x="245" y="34" width="428" height="474" key="FileChooserDialogImpl" timestamp="1629741265483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="245" y="34" width="428" height="474" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1629741265483" />
+    <state x="126" y="21" key="SettingsEditor" timestamp="1629741250411">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="126" y="21" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1629741250411" />
+    <state x="3" y="174" key="run.anything.popup" timestamp="1629746190810">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="3" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1629746190810" />
+    <state x="141" y="80" width="672" height="687" key="search.everywhere.popup" timestamp="1629745296061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="141" y="80" width="672" height="687" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1629745296061" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/home.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/contact.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/user-lock.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg/tools.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_profile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_default.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#40#69#0" />
+            <element signature="e#81#129#0" />
+            <element signature="e#135#181#0" />
+            <element signature="e#185#209#0" />
+            <element signature="e#188#194#0" />
+            <element signature="e#261#267#0" />
+            <element signature="e#221#227#0" />
+            <element signature="e#344#350#0" />
+            <element signature="e#452#458#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

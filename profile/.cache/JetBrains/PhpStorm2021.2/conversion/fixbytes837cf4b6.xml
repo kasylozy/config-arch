@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/dataSources.local.xml" t="1629816964" />
+    <f p="./.idea/php.xml" t="1629816429" />
+    <f p="./.idea/workspace.xml" t="1629817391" />
+    <f p="./.idea/laravel-plugin.xml" t="1629816429" />
+    <f p="./.idea/dataSources.xml" t="1629816615" />
+    <f p="./.idea/fixbytes.iml" t="1629816429" />
+    <f p="./.idea/modules.xml" t="1629816172" />
+    <f p="./.idea/phpunit.xml" t="1629816429" />
+  </project-files>
+</conversion>

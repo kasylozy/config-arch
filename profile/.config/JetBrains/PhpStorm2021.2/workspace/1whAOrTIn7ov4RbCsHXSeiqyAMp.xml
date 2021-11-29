@@ -1,0 +1,405 @@
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/admin/AdminPostController.php" description="$url = route('post.create');" line="43" mnemonic="0" />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="test@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="test: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="Family of 6 table (host: schema test)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/AdminPostController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="105" column="58" selection-start-line="105" selection-start-column="58" selection-end-line="105" selection-end-column="58" />
+              <folding>
+                <element signature="e#289#324#0#PHP" />
+                <element signature="e#377#458#0#PHP" />
+                <element signature="e#464#686#0#PHP" />
+                <element signature="e#691#846#0#PHP" />
+                <element signature="e#852#1073#0#PHP" />
+                <element signature="e#1078#1245#0#PHP" />
+                <element signature="e#1251#1418#0#PHP" />
+                <element signature="e#1423#1729#0#PHP" />
+                <element signature="e#1485#1674#0#PHP" />
+                <element signature="e#1510#1673#1#PHP" />
+                <element signature="e#1735#1857#0#PHP" />
+                <element signature="e#1862#1910#0#PHP" />
+                <element signature="e#1916#2168#0#PHP" />
+                <element signature="e#2173#2408#0#PHP" />
+                <element signature="e#2414#2604#0#PHP" />
+                <element signature="e#2720#2809#0#PHP" />
+                <element signature="e#3107#3249#0#PHP" />
+                <element signature="e#3254#3383#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_200733_add__tag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/resources/views/admin/post/index.blade.php" />
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminPostController.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_034116_create_table_post.php" />
+      <option value="$PROJECT_DIR$/routes/web.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_174527_alter_post_online.php" />
+      <option value="$PROJECT_DIR$/config/app.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_185702_add_publiched_on_post.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_190033_add_published_on_posts.php" />
+      <option value="$PROJECT_DIR$/resources/views/admin/posts/create.blade.php" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/admin/AdminPostController.php" />
+      <option value="$PROJECT_DIR$/app/Models/Post.php" />
+      <option value="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_200733_add__tag.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2021_08_14_191328_create_table_categories.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="test-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15202000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.500774" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.499226" side_tool="true" weight="0.25" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.54048586" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.22584188" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Database</value>
+      <value>Project</value>
+      <value>Favorites</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="320" y="9" width="718" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628962454315">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="320" y="9" width="718" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1628962454315" />
+    <state x="168" y="10" key="SettingsEditor" timestamp="1628913365939">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="168" y="10" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1628913365939" />
+    <state x="569" y="0" width="190" height="481" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1628972955147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="569" y="0" width="190" height="481" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.1366.768@0.0.1366.768" timestamp="1628972955147" />
+    <state x="431" y="60" width="489" height="558" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1628972632015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="431" y="60" width="489" height="558" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1628972632015" />
+    <state x="345" y="174" key="run.anything.popup" timestamp="1628966481983">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="345" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1628966481983" />
+    <state x="346" y="80" width="686" height="687" key="search.everywhere.popup" timestamp="1628970835832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="80" width="686" height="687" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1628970835832" />
+    <state x="406" y="284" width="544" height="167" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1628912096427">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="406" y="284" width="544" height="167" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.768@0.0.1366.768" timestamp="1628912096427" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="122" column="10" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminPostController.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_034116_create_table_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b1dafdc3-f66e-4773-8ed3-ad4efa1c61cf/console.sql" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_174527_alter_post_online.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="233" column="54" selection-start-line="233" selection-start-column="54" selection-end-line="233" selection-end-column="54" />
+          <folding>
+            <element signature="e#21#451#0#PHP" />
+            <element signature="e#500#931#0#PHP" />
+            <element signature="e#981#1408#0#PHP" />
+            <element signature="e#1462#1882#0#PHP" />
+            <element signature="e#1982#2410#0#PHP" />
+            <element signature="e#2442#2885#0#PHP" />
+            <element signature="e#2914#3349#0#PHP" />
+            <element signature="e#3387#3810#0#PHP" />
+            <element signature="e#3848#4273#0#PHP" />
+            <element signature="e#4341#4777#0#PHP" />
+            <element signature="e#4809#4873#0#PHP" />
+            <element signature="e#6219#6273#0#PHP" />
+            <element signature="e#6283#6341#0#PHP" />
+            <element signature="e#6614#7032#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_185702_add_publiched_on_post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_190033_add_published_on_posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b1dafdc3-f66e-4773-8ed3-ad4efa1c61cf/schema/test/table/categories">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1628968645816" presentationMode="TABLE" projectRestartId="ef943689-0f1a-43c0-8caf-107e7471ddb7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b1dafdc3-f66e-4773-8ed3-ad4efa1c61cf/schema/test/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1628968817862" presentationMode="TABLE" projectRestartId="ef943689-0f1a-43c0-8caf-107e7471ddb7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="published_at" position="8" />
+            <column name="created_at" position="6" />
+            <column name="updated_at" position="7" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/admin/AdminPostController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="105" column="58" selection-start-line="105" selection-start-column="58" selection-end-line="105" selection-end-column="58" />
+          <folding>
+            <element signature="e#289#324#0#PHP" />
+            <element signature="e#377#458#0#PHP" />
+            <element signature="e#464#686#0#PHP" />
+            <element signature="e#691#846#0#PHP" />
+            <element signature="e#852#1073#0#PHP" />
+            <element signature="e#1078#1245#0#PHP" />
+            <element signature="e#1251#1418#0#PHP" />
+            <element signature="e#1423#1729#0#PHP" />
+            <element signature="e#1485#1674#0#PHP" />
+            <element signature="e#1510#1673#1#PHP" />
+            <element signature="e#1735#1857#0#PHP" />
+            <element signature="e#1862#1910#0#PHP" />
+            <element signature="e#1916#2168#0#PHP" />
+            <element signature="e#2173#2408#0#PHP" />
+            <element signature="e#2414#2604#0#PHP" />
+            <element signature="e#2720#2809#0#PHP" />
+            <element signature="e#3107#3249#0#PHP" />
+            <element signature="e#3254#3383#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_191328_create_table_categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b1dafdc3-f66e-4773-8ed3-ad4efa1c61cf/schema/test/table/migrations">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1628972962600" presentationMode="TABLE" projectRestartId="ef943689-0f1a-43c0-8caf-107e7471ddb7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2021_08_14_200733_add__tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

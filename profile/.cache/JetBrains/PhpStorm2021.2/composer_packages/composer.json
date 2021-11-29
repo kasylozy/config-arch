@@ -1,0 +1,15 @@
+{
+  "name": "dummy/dummy",
+  "description": "#[[$description$]]#",
+  "minimum-stability": "stable",
+  "license": "#[[$license$]]#",
+  "authors": [
+    {
+      "name": "#[[$author$]]#",
+      "email": "user@gmail.com"
+    }
+  ],
+  "require": {
+    
+  },"repositories": {}
+}
