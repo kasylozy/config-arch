@@ -77,6 +77,25 @@ installPacman curl \
   mariadb \
   mariadb-clients \
   postfix \
+  php \
+  php-apcu \
+  php-cgi \
+  php-dblib \
+  php-embed \
+  php-enchant \
+  php-fpm \
+  php-gd \
+  php-imap \
+  php-intl \
+  php-odbc \
+  php-pgsql \
+  php-phpdbg \
+  php-pspell \
+  php-snmp \
+  php-sodium \
+  php-sqlite \
+  php-tidy \
+  php-xsl \
   php7 \
   php7-apcu \
   php7-cgi \
@@ -172,7 +191,8 @@ if [ `systemctl is-enabled postfix` = "disabled" ]; then
   sudo systemctl enable --now postfix
 fi
 
-if [ ! -f /usr/bin/php ]; then
+#if [ ! -f /usr/bin/php ]; then
+if ! grep "xdebug" /usr/bin/php &>/dev/null; then
   for php_ini in `sudo find /etc -type f -name "php.ini"` ; do
     path_file=${php_ini##/etc/}
     path=${path_file%/php.ini}
@@ -201,12 +221,11 @@ if [ ! -f /usr/bin/php ]; then
     cd ..
     sudo rm -Rf ./xdebug/
   
-    if grep "\[xdebug\]" $php_ini &>/dev/null; then
+    if ! grep "\[xdebug\]" $php_ini &>/dev/null; then
       sudo echo -e "[xdebug]\nzend_extension=/usr/lib64/php${php_version}/modules/xdebug.so" >> $php_ini
     fi
     sudo chmod o-w $php_ini
   done
-  sudo ln -s /usr/bin/php7 /usr/bin/php
 fi
 
 if [ ! -f /usr/bin/browser-sync ]; then
