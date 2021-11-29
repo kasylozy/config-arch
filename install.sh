@@ -71,6 +71,7 @@ installPacman curl \
   udisks2 \
   remmina \
   freerdp \
+  tmux \
   zip \
   unzip \
   mariadb \
