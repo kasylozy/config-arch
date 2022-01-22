@@ -156,7 +156,6 @@ installYay vscodium-bin \
   skypeforlinux-stable-bin \
   phpstorm \
   phpstorm-jre \
-  bitwarden \
   vmware-workstation \
   arc-gtk-theme \
   polybar
@@ -318,19 +317,19 @@ if [ ! -f /usr/bin/docker ]; then
   fi
 fi
 
-if [ ! -f /swapfile ]; then
-  sudo truncate -s 0 /swapfile
-  sudo chattr +C /swapfile
-  sudo btrfs property set /swapfile compression none
-
-  sudo dd if=/dev/zero of=/swapfile bs=1M count=4096 status=progress
-  sudo chmod 600 /swapfile
-  sudo mkswap /swapfile
-  sudo swapon /swapfile
-  sudo chmod o+w /etc/fstab
-  sudo echo "/swapfile none swap defaults 0 0" >> /etc/fstab
-  sudo chmod o-w /etc/fstab
-fi
+#if [ ! -f /swapfile ]; then
+#  sudo truncate -s 0 /swapfile
+#  sudo chattr +C /swapfile
+#  sudo btrfs property set /swapfile compression none
+#
+#  sudo dd if=/dev/zero of=/swapfile bs=1M count=4096 status=progress
+#  sudo chmod 600 /swapfile
+#  sudo mkswap /swapfile
+#  sudo swapon /swapfile
+#  sudo chmod o+w /etc/fstab
+#  sudo echo "/swapfile none swap defaults 0 0" >> /etc/fstab
+#  sudo chmod o-w /etc/fstab
+#fi
 
 grub_file="/etc/default/grub"
 if ! grep -i 'GRUB_CMDLINE_LINUX_DEFAULT="quiet acpi_backlight=vendor' ${grub_file} &>/dev/null; then
@@ -342,6 +341,7 @@ fi
 
 rsync -av --chown=$USER:$USER ./profile/ ~/
 
+echo ""
 echo ""
 echo "Redémarrer l'ordinateur pour terminer la configuration !"  
 exit 0
