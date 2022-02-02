@@ -54,7 +54,6 @@ installPacman curl \
   vivaldi \
   vivaldi-ffmpeg-codecs \
   discord \
-  virtualbox \
   polkit-gnome \
   libreoffice-fresh \
   filezilla \
@@ -63,7 +62,7 @@ installPacman curl \
   networkmanager-openvpn \
   ntfs-3g \
   gnome-screenshot \
-  smplayer \
+  vlc \
   pulsemixer \
   gnome-calculator \
   gnome-system-monitor \
