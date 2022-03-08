@@ -330,6 +330,12 @@ fi
 #  sudo chmod o-w /etc/fstab
 #fi
 
+if ! grep "LIBGL_ALWAYS_SOFTWARE=true" /etc/environment; then
+  sudo chown $USER:$USER /etc/environment
+  sudo echo "LIBGL_ALWAYS_SOFTWARE=true" >> /etc/environment
+  sudo chown root:root /etc/environment
+fi
+
 grub_file="/etc/default/grub"
 if ! grep -i 'GRUB_CMDLINE_LINUX_DEFAULT="quiet acpi_backlight=vendor' ${grub_file} &>/dev/null; then
   sudo chown $USER:$USER $grub_file
